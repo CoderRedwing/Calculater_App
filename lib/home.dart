@@ -11,8 +11,9 @@ class Calculater extends StatefulWidget {
 }
 
 class _CalculaterState extends State<Calculater> {
+
   double firstNum = 0.0;
-  double seconNum = 0.0;
+  double secondNum = 0.0;
   var input = "";
   var output = "";
   var operation = "";
